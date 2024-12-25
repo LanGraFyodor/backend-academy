@@ -1,4 +1,4 @@
-# Академия Бэкенда <img src="image.png" style="height: 20px; object-fit: cover;"/>
+# Академия Бэкенда <img src="images/image.png" style="height: 20px; object-fit: cover;"/>
 
 Приветствую тебя, странник!
 
@@ -6,7 +6,7 @@
 
 Не оставляй этот репозиторий без звёздочки, если он был тебе полезен 🌟
 
-<img src="image-1.png" style="width: 100%; object-fit: cover;"/>
+<img src="images/image-1.png" style="width: 100%; object-fit: cover;"/>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=backend.academy">
 
@@ -61,7 +61,7 @@
 |---|---|---|
 | **Генерация изображения 1920 на 1080:** | 30894.8 ms | 7091.2 ms |
 
-<img src="image-3.png" style="width: 500px; object-fit: cover;"/>
+<img src="images/image-3.png" style="width: 500px; object-fit: cover;"/>
 
 ---
 
@@ -108,7 +108,7 @@
 
 Пример работы:
 
-<img src="image-2.png" style="width: 500px; object-fit: cover;"/>
+<img src="images/image-2.png" style="width: 500px; object-fit: cover;"/>
 
 ---
 
