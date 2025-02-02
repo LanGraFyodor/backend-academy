@@ -66,7 +66,7 @@
 
 Проект в рамках модуля:
 
-[![Log Analyzer Gist Card](https://github-readme-stats.vercel.app/api/pin/?username=m-fedosov&repo=log_analyzer&show_owner=true)](https://github.com/m-fedosov/log_analyzer)
+[![Log Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=LanGraFyodor&repo=log_analyzer&theme=dark)](https://github.com/LanGraFyodor/log_analyzer)
 
 Особенности проекта:
 - Java 22 ☕️ 
