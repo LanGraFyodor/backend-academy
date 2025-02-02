@@ -18,7 +18,8 @@
 
 Проект в рамках модуля:
 
-[![Reflection Benchmark](https://github-readme-stats.vercel.app/api/pin/?username=LanGraFyodor&repo=reflection_benchmark&theme=radical)](https://github.com/LanGraFyodor/reflection_benchmark)
+[![Reflection Benchmark](https://github-readme-stats.vercel.app/api/pin/?username=LanGraFyodor&repo=reflection_benchmark&theme=dark)](https://github.com/LanGraFyodor/reflection_benchmark)
+
 
 Особенности проекта:
 - Java 22 ☕️ 
