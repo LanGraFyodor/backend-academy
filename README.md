@@ -21,7 +21,6 @@
 [![Reflection Benchmark Gist Card](https://github-readme-stats.vercel.app/api/pin/?username=m-fedosov&repo=reflection_benchmark&show_owner=true)](https://github.com/m-fedosov/reflection_benchmark)
 
 Особенности проекта:
-- Cравнения различных способов вызова методов в Java с помощью JMH (Java Microbenchmarking Harness).
 - Java 22 ☕️ 
 - Lombok 🌶️
 - Maven
@@ -47,10 +46,7 @@
 Особенности проекта:
 - Однопоточный и многопоточный рендеринг изображений
 - Рендеринг изображений с осью симметрии
-- Типы преобразования изображений: (дисковое, сердцевинное, линейное, полярное, синусоидальное, сферическое)
-- Нормализация изображения
-- Java 22 ☕️ 
-- JCommander 
+- Java 22 ☕️  
 - Lombok 🌶️
 - JUnit 5
 - Maven
@@ -74,11 +70,7 @@
 [![Log Analyzer Gist Card](https://github-readme-stats.vercel.app/api/pin/?username=m-fedosov&repo=log_analyzer&show_owner=true)](https://github.com/m-fedosov/log_analyzer)
 
 Особенности проекта:
-- Парсинг NGINX логов
-- вывод: 95 перцентиль размера ответа, запрашиваемых ресурсов, читаемые коды ответа и др.
-- StreamAPI - для потоковой обработки логов
 - Java 22 ☕️ 
-- JCommander 
 - Lombok 🌶️
 - JUnit 5
 - Maven
@@ -99,8 +91,6 @@
 [![Amazed Gist Card](https://github-readme-stats.vercel.app/api/pin/?username=m-fedosov&repo=amazed&show_owner=true)](https://github.com/m-fedosov/amazed)
 
 Особенности проекта:
-- Алгоритмы генерации лабиринтов - алгоритм Прима и Краскала.
-- Алгоритмы поиска пути - поиск в ширину (BFS) и А* (A-star).
 - Java 22 ☕️ 
 - Lombok 🌶️
 - JUnit 5
@@ -121,7 +111,6 @@
 [![Hangman Game Gist Card](https://github-readme-stats.vercel.app/api/pin/?username=m-fedosov&repo=hangman_game&show_owner=true)](https://github.com/m-fedosov/hangman_game)
 
 Особенности проекта:
-- Реализация через паттерн [состояние](https://refactoring.guru/ru/design-patterns/state)
 - Java 22 ☕️ 
 - Lombok 🌶️
 - JUnit 5
