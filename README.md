@@ -57,7 +57,8 @@
 |---|---|---|
 | **Генерация изображения 1920 на 1080:** | 30894.8 ms | 7091.2 ms |
 
-<img src="images/image-3.png" style="width: 500px; object-fit: cover;"/>
+<img src="images/Снимок экрана 2025-02-02 231203.png" style="width: 500px; object-fit: cover;"/>
+<img src="images/Снимок экрана 2025-02-02 231229.png" style="width: 500px; object-fit: cover;"/>
 
 ---
 
