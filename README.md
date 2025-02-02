@@ -42,7 +42,7 @@
 
 Проект в рамках модуля:
 
-[![Fractal Flame Gist Card](https://github-readme-stats.vercel.app/api/pin/?username=m-fedosov&repo=fractal_flame&show_owner=true)](https://github.com/m-fedosov/fractal_flame)
+[![Fractal Flame](https://github-readme-stats.vercel.app/api/pin/?username=LanGraFyodor&repo=fractal_flame&theme=dark)](https://github.com/LanGraFyodor/fractal_flame)
 
 Особенности проекта:
 - Java 22 ☕️  
