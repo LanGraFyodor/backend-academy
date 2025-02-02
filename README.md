@@ -44,8 +44,6 @@
 [![Fractal Flame Gist Card](https://github-readme-stats.vercel.app/api/pin/?username=m-fedosov&repo=fractal_flame&show_owner=true)](https://github.com/m-fedosov/fractal_flame)
 
 Особенности проекта:
-- Однопоточный и многопоточный рендеринг изображений
-- Рендеринг изображений с осью симметрии
 - Java 22 ☕️  
 - Lombok 🌶️
 - JUnit 5
