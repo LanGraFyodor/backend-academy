@@ -82,7 +82,7 @@
 
 Проект в рамках модуля:
 
-[![Amazed Gist Card](https://github-readme-stats.vercel.app/api/pin/?username=m-fedosov&repo=amazed&show_owner=true)](https://github.com/m-fedosov/amazed)
+[![Amazed](https://github-readme-stats.vercel.app/api/pin/?username=LanGraFyodor&repo=amazed)](https://github.com/LanGraFyodor/amazed)
 
 Особенности проекта:
 - Java 22 ☕️ 
