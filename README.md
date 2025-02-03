@@ -102,7 +102,7 @@
 
 Проект в рамках модуля:
 
-[![Hangman Game Gist Card](https://github-readme-stats.vercel.app/api/pin/?username=m-fedosov&repo=hangman_game&show_owner=true)](https://github.com/m-fedosov/hangman_game)
+[![Hangman Game](https://github-readme-stats.vercel.app/api/pin/?username=LanGraFyodor&repo=hangman_game&theme=dark)](https://github.com/LanGraFyodor/hangman_game)
 
 Особенности проекта:
 - Java 22 ☕️ 
