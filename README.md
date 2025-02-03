@@ -29,10 +29,10 @@
 Пример работы:
 | Benchmark                                   | Score | Units  |
 |---------------------------------------------|-------|--------|
-| ReflectionBenchmark.directAccess            | 0.633 | ns/op  |
-| ReflectionBenchmark.lambdaMetafactoryAccess | 0.811 | ns/op  |
-| ReflectionBenchmark.methodHandlesAccess     | 3.221 | ns/op  |
-| ReflectionBenchmark.reflectionAccess        | 5.888 | ns/op  |
+| MethodAccessBenchmark.directAccess            | 0.633 | ns/op  |
+| MethodAccessBenchmark.lambdaMetafactory | 0.811 | ns/op  |
+| MethodAccessBenchmark.lambdaMetafactory     | 3.221 | ns/op  |
+| MethodAccessBenchmark.reflection        | 5.888 | ns/op  |
 
 ---
 
