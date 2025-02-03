@@ -82,7 +82,7 @@
 
 Проект в рамках модуля:
 
-[![Amazed](https://github-readme-stats.vercel.app/api/pin/?username=LanGraFyodor&repo=amazed)](https://github.com/LanGraFyodor/amazed)
+[![Amazed](https://github-readme-stats.vercel.app/api/pin/?username=LanGraFyodor&repo=amazed&theme=dark)](https://github.com/LanGraFyodor/amazed)
 
 Особенности проекта:
 - Java 22 ☕️ 
